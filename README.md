@@ -41,7 +41,6 @@ The project aims to explore traditional and deep learning approaches to NLP by b
 - `Applied Artificial Intelligence.ipynb`: Jupyter Notebook containing code, visualizations, and results.
 - `README.md`: This file.
 - `all_kindle_review.csv`: The dataset used for training and evaluation.
-- `report.pdf`: 3000-word report discussing implementation, results, and recommendations.
 
 ## How to Run
 
